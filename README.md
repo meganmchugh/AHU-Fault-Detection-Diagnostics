@@ -14,3 +14,4 @@ Megan K. McHugh (Intelligent Environments Lab & Energy Management and Optimizati
 - Maps of AHU leakage using openstreetmap and leaflet (R)
 - Scrape weather data from Weather Underground for Austin (R)
 - Machine learning for predictive AHU leakage (Python)
+- FDD Shiny application web dashboard (R)
